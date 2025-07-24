@@ -1,42 +1,23 @@
-### Github/Gitlab Note
+### Github Note
 I use [**Codeberg**](https://codeberg.org/DominicDeligann) for my own projects,  
-I only have Github/Gitlab to contribute to projects there.
+I use my Github account for contributing to projects hosted here.
 
-# Welcome
-**I'm Dom. I am a programmer and Linux enthusiast.**  
-I code stuff.
-
+# Hey :)
+**I'm Dominic, also known as domdel or just Dom.**  
+*I am a programmer, Linux enthusiast and Libre software enjoyer.*   
+I code primarely in C/C++, but i also have experience in Python, C#, and Lua.  
+and i have worked with Kotlin, Rust, Go, Java and Javascript.  
+I use the GTK and Qt Libraries for GUI programs.  
+I have been actively learning SDL/OpenGL since 2023.
 
 ## Projects
 I am currently working on a game engine,  
 More info when i finish my work!
 
-
-## Tools i use
-
-### Programming
-(Most used to least used)  
-* *Programming Languages:*
-**C/C++** | Python | C# | Lua | Kotlin | Rust | Go | Java | Javascript | Ruby  
-* *GUI Toolkits*:
-**GTK** | Libadwaita | Qt | Kirigami  
-* *Other Libraries*:
-**SDL**
-
-### Setup
-* *OS:* **Archlinux** | Debian (Old Laptop & Server)
-* *DE:* **GNOME** | XFCE (For older hardware)
-* *Shell:* **Bash** (no im not 40, i just like bash)  
-
-Check out my [dotfiles](https://codeberg.org/DominicDeligann/dotfiles)
-
-
-## Contact
+## Linktree
 * *Fediverse:*
-[**Mastodon**](https://mastodon.social/@DominicDeligann) | [Lemmy](https://lemmy.ml/u/DominicDeligann) | [kbin](https://kbin.social/u/DominicDeligann)  
+[**Mastodon**](https://mastodon.social/@DominicDeligann) / [Lemmy](https://lemmy.ml/u/DominicDeligann) / [Peertube](https://tilvids.com/a/dominicdeligann/)
 * *Git:*
-[**Codeberg**](https://codeberg.org/DominicDeligann) | [Gitlab](https://gitlab.com/DominicDeligann) | [Github](https://github.com/DominicDeligann)  
+[**Codeberg**](https://codeberg.org/DominicDeligann) / [Gitlab](https://gitlab.com/DominicDeligann) / [Github](https://github.com/DominicDeligann)  
 * *Matrix*:
 [**@DominicDeligann:matrix.org**](https://matrix.to/#/@dominicdeligann:matrix.org)  
-* *Email:*
-**u2ofh5ym@dominicdeligann.anonaddy.me**

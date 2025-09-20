@@ -5,7 +5,7 @@ I use my Github account for contributing to projects hosted here.
 # Hey :)
 **I'm Dominic, also known as domdel or just Dom.**  
 *I am a programmer, Linux enthusiast and Libre software enjoyer.*   
-I code primarely in C/C++, but i also have experience in Python, C#, and Lua.  
+I code primarily in C/C++, but i also have experience in Python, C#, and Lua.  
 and i have worked with Kotlin, Rust, Go, Java and Javascript.  
 I use the GTK and Qt Libraries for GUI programs.  
 I have been actively learning SDL/OpenGL since 2023.
